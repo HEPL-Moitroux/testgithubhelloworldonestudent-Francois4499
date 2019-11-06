@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world\n");
-            Console.WriteLine("V01 06/11/2019 modifié par François\n");
+            Console.WriteLine("V01 06/11/2019 modifié à 19h46 par Maxime\n");
             Console.WriteLine("Cliqué sur une touche pour quitter\n");
             Console.ReadKey();
         }
